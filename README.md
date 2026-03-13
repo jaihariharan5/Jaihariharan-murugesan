@@ -42,7 +42,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jaihariharan5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://img.shields.io/badge/💀_"The_best_defense_is_a_good_offense"-000000?style=for-the-badge&labelColor=ff003c&color=0a0a0f)
 
 ## 📈 Contribution Graph
 
