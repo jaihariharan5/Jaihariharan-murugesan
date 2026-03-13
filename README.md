@@ -39,14 +39,10 @@
 ---
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaihariharan5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jaihariharan5&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=8)
-
-</div>
-
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 📈 Contribution Graph
 
